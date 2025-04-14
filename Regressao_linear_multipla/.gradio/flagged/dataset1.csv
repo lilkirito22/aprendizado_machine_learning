@@ -1,0 +1,3 @@
+grupo_sanguineo,fumante,nivel_atividade_fisica,idade,peso,altura,output,timestamp
+A,false,Alto,22,95.3,180,[231.29791454],2025-04-14 11:08:39.072766
+A,Não,Alto,48,118,185,0,2025-04-14 11:10:08.375790
