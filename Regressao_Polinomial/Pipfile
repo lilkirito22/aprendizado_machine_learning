@@ -12,6 +12,11 @@ seaborn = "*"
 ipykernel = "*"
 gradio = "*"
 pingouin = "*"
+fastapi = "*"
+pydantic = "*"
+streamlit = "*"
+uvicorn = "*"
+requests = "*"
 
 [dev-packages]
 
