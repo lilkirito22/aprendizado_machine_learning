@@ -1,0 +1,8 @@
+
+Todo:
+  ✔ Carregar os dados em um dataframe @done(25-04-17 11:56)
+  ✔ Fazer EDA @done(25-04-17 11:56)
+  ☐ Treinar modelo linear
+  ☐ Validar modelo linear
+  ☐ treinar modelo polinomial
+  ☐ Validar modelo polinomial
